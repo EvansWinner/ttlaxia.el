@@ -1,0 +1,12 @@
+* ttlaxia.el
+
+This is just the code I use to maintain my website (sans .css).  It is
+NOT “production code” by a long shot.  The only reason I put it up
+here is that it is sufficiently unusual, I think, to use just org-mode
+(and atom.el is required too, for the feed) that someone might find it
+interesting.
+
+It is unusual in that it does not really use the full project
+publishing stack of org-mode, but rather just hooks in to the html
+rendering engine and does the rest itself, because I wanted things
+done my way.
